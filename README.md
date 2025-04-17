@@ -1,5 +1,4 @@
-# plc_rest
-## For httpx Testing Purposes
+# For httpx Testing Purposes
 
 REST API for Nanotec Stepper Motor Control
 ![Image](https://rock-technologies.com/Downloads/ABW/Simplenotes/AI_PLC_Interface_Documentation.png)
